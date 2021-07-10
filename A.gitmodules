@@ -1,0 +1,6 @@
+[submodule seanpm2001/SuperPowerLaptop-DeviceStandards"]
+	path = "/Device-Standards/"
+	url = "https://github.com/seanpm2001/SuperPowerLaptop-DeviceStandards"
+# The module for the device standards repository
+
+# I still do not know how to make working Git submodules. This is as close as I can get (as of Friday, July 9th 2021 at 7:56 pm
